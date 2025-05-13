@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    background-image: url("/assets/Hero-bg.png");
+    width: 100%;
+    height: 600px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+
+.ban1{
+    width: 100%;
+}
+
+
